@@ -1,10 +1,6 @@
 #Creando archivo 3
-<<<<<<< HEAD
-<<<<<<< HEAD
 Primera actualización
-=======
+Segunda Actualización
+Tercera Actualización
+Realizando última actualización
 
->>>>>>> 3dfe73a (Creación del archivo rama3.md)
-=======
-
->>>>>>> 3dfe73a (Creación del archivo rama3.md)
